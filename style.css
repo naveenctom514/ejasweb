@@ -1,0 +1,49 @@
+
+#headers{
+    color:#FFFFFF;
+    background-color: black;
+}
+
+
+#navee{
+    background-color:black;
+}
+#aboutone{
+    color:#FFFFFF;
+}
+#resume{
+    color:#FFFFFF;
+}
+#contacts{
+    color:#FFFFFF;
+}
+#toggler{
+    color:#FFFFFF;
+}
+#navbar{
+    background-color:black;
+}
+#button{
+     color:#18d26e;
+     background-color:#18d26e;
+}
+#sectionone{
+    background-color:rgb(0, 0, 0);
+    color:#18d26e;
+}
+#section{
+    padding-top: 40px;
+}
+#sectiontwo{
+    background-color:black;
+    color:#18d26e;
+    padding-top: 30px;
+}
+.fontss{
+    color: #FFFFFF;
+}
+#sectionthree{
+    background-color: black;
+    color: #18d26e;
+    padding-top: 30px;
+}
